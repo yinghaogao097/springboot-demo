@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
     public String hello() {
-        return "hello github啊啊啊";
+        return "hellCesssdad新";
     }
 }
