@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController4 {
     public String hello() {
-        return "hello github";
+        return "HelloController4";
     }
 }
